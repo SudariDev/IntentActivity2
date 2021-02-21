@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent2</string>
+    <string name="save">save</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="saveBtn">Save</string>
+
+</resources>
